@@ -1,4 +1,4 @@
- #Trabalhando com sensores em UWP – Parte 1 – Sensor de Luz
+#Trabalhando com sensores em UWP – Parte 1 – Sensor de Luz
 
 ##Bruno Sonnino
 
