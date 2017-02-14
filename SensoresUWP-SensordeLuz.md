@@ -1,4 +1,4 @@
-#Trabalhando com sensores em UWP – Parte 1 – Sensor de Luz
+ #Trabalhando com sensores em UWP – Parte 1 – Sensor de Luz
 
 ##Bruno Sonnino
 
@@ -10,9 +10,9 @@ Mas este tipo de dispositivos traz outro tipo de inovações que não estão vis
 
 Basicamente, o trabalho com sensores em UWP segue a mesma rotina:
 
-*Obter uma instância do sensor com o método GetDefault
-*Configurar suas propriedades
-*Configurar um manipulador para o evento ReadingChanged
+* Obter uma instância do sensor com o método GetDefault
+* Configurar suas propriedades
+* Configurar um manipulador para o evento ReadingChanged
 
 Isto é tudo o que é necessário para se trabalhar com sensores em UWP. Assim, vamos iniciar com o primeiro sensor: o sensor de luz.
 
